@@ -1,0 +1,139 @@
+body{
+    font-family: 'Source Sans Pro', sans-serif;
+    background-image:url(./images/bgimg.jpg);
+    background-repeat: no-repeat;
+    background-size : cover;
+    color: white;
+}
+
+/* //header section starts here */
+
+
+#Header{
+    color: white;
+    width: 100%;
+    
+    margin-top: -46px;
+    margin-left: 13px;
+}
+#Logo{
+    width: 30%;
+}
+
+#Header div{
+    display: inline-block;
+}
+#Options{
+    width: 69%;
+    
+}
+#Options ul{
+    display: inline-block;
+    margin-left: 648px;
+}
+#Options ul li{
+    display: inline-block;
+    font-size: 20px;
+    margin-left: 43px;
+    
+}
+
+
+#Logo h1{
+    
+    font-size: 18px;
+    padding: 2px 0px 0px 10px;
+}
+
+#Logo h1 span{
+    font-weight: 100;
+}
+#signup{
+    border: 1px solid white;
+    border-radius: 4px;
+    padding: 3px 7px;
+}
+
+.fa{
+    font-weight: 900;
+    margin-right: 5px;
+}
+
+/* //header section ends here */
+
+
+/* //body section starts header */
+
+#body{
+    color: white;
+}
+
+#Body h1{
+    text-align: center;
+    font-size: 58px;
+    font-weight: 180;
+    padding-top: 58px;
+}
+#Body p{
+    margin: -24px;
+    font-family: 'Source Sans Pro', sans-serif;
+    font-size: 30px;
+    text-align: center;
+    font-weight: 300;
+}
+Body ul{
+    text-align: center;
+    margin-top: 54px;
+    
+}
+
+#Body ul li{
+    display: inline-block;
+    font-size: 30px;
+    border: 1px solid white;
+    border-radius: 6px;
+    margin-right: 26px;
+    padding: 15px 60px;
+
+}
+#sign{
+    background-color: white;
+    color: gray;
+
+}
+
+
+
+
+
+/* //body section ends header */
+
+/* //descrip  section starts header */ 
+#Descrip{
+    text-align: center;
+    background-color: white;
+    width: 70%;
+    margin: 0 auto;
+    border-radius: 6px;
+}
+#Descrip h1{
+    display: inline-block;
+    color: grey;
+    font-size: 37px;
+    font-weight: 100;
+    margin-top: 69px;
+    border-bottom: 1px solid gray;
+    padding: 0px 80px 60px 80px;
+}
+#Descrip p{
+    display: inline-block;
+    font-size: 22px;
+    padding: 30px;
+    color: grey;
+}
+
+#Descrip img{
+    width: 100%;
+}
+/* //descript  end header */
+
